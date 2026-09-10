@@ -2,7 +2,7 @@
 
 Personal portfolio site covering my background in defensive cybersecurity — SOC analysis, OT/ICS security, vulnerability management, and GRC/audit.
 
-**Live site:** [https://jainanushkarathod.github.io/](https://jainanushkarathod.github.io/anushkajain_portfolio/)
+**Live site:** [https://jainanushkarathod.github.io/](https://jainanushkarathod.github.io/professionalportfolio/)
 
 ## What's inside
 
